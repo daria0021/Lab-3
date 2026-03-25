@@ -12,6 +12,7 @@
 #include <stdexcept>
 
 using namespace std;
+// компиляция кода: g++ -std=c++20 -o CoMEWD main.cpp      ./CoMEWD
 
 // ============================================================================
 // Вспомогательные функции
@@ -738,4 +739,4 @@ int main() {
         return 0;
     }
     return 0;
-}
+} 
